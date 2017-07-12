@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.board button {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 5px;  
+  background-color: #fff;
+  background-image: none;
+  outline: none;
+}
+
+.board br {
+  clear: both;
+}
+
+.board section {
+  display: inline-block;
+}
